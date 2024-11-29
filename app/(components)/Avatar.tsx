@@ -9,7 +9,7 @@ export default function Avatar() {
             <Image
               priority={true}
               alt="user avatar"
-              src="https://avatars.githubusercontent.com/engageintellect"
+              src="https://avatars.githubusercontent.com/svampbobdev"
               width={100}
               height={100}
             />

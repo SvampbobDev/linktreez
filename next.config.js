@@ -4,18 +4,16 @@ const nextConfig = {
     appDir: true,
   },
 
-
   images: {
     remotePatterns: [
       {
-        protocol: 'https',
-        hostname: 'avatars.githubusercontent.com',
-        port: '',
-        pathname: '/engageintellect/**',
+        protocol: "https",
+        hostname: "avatars.githubusercontent.com",
+        port: "",
+        pathname: "/svampbobdev/**",
       },
     ],
   },
+};
 
-}
-
-module.exports = nextConfig
+module.exports = nextConfig;
